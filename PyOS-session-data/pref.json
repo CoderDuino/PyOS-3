@@ -1,0 +1,16 @@
+{
+    "Apps": {
+        "": "",
+        "MultiTable": "Multiplication Table",
+        "P3Examples1": "P3Examples",
+        "dice": "Dice",
+        "file": "PyOS FileMan",
+        "home": "Home Screen",
+        "logo": "Crash",
+        "pyTanksServer": "pyTanks Server",
+        "stop": "Freeze",
+        "term": "Terminal",
+        "test": "PyOS Test"
+    },
+    "homeApp": "home"
+}
